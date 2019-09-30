@@ -14,7 +14,7 @@
 
 
 <body>
-<div class="container" style="background-image:<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/images/download1.jpeg"> 
+<div class="container"style="background-image:http://ckcl/templates/ckcl/images/download1.jpg">
 <div class="menubar">
         <ul style="font-family: 'Open Sans', sans-serif;font-weight:800">
         <li ><a href="">Clean Kerala <span>Company Ltd</span></a></li>
@@ -103,12 +103,12 @@ font-weight:800">OUR IMPACT</center></div>
 <div class="circle"style="float:left;margin-left:25px">827</div>
   
 </div>
-<div class="circletext" style="padding-top:130px;padding-left:50px;font-family: 'Open Sans', sans-serif;
+<div class="circletext" style="padding-top:130px;padding-left:0px;font-family: 'Open Sans', sans-serif;
 font-weight:300">
   Kg of waste desposed.
-<span style="padding-left:25px">collection units</span>
-<span style="padding-left:68px">Local Bodies</span>
-<span style="padding-left:52px">Tones of waste recycled</span>
+<span style="padding-left:12px">collection units</span>
+<span style="padding-left:28px">Local Bodies</span>
+<span style="padding-left:20px">Tones of waste recycled</span>
 
 
 
@@ -126,9 +126,9 @@ font-weight:300">
 <div class="circletext" style="padding-top:130px;padding-left:0px;font-family: 'Open Sans', sans-serif;
 font-weight:300">
   Kg of waste desposed.
-<span style="padding-left:58px">collection units</span>
-<span style="padding-left:68px">Local Bodies</span>
-<span style="padding-left:52px">Tones of waste recycled</span>
+<span style="padding-left:12px">collection units</span>
+<span style="padding-left:28px">Local Bodies</span>
+<span style="padding-left:20px">Tones of waste recycled</span>
 
 
 
@@ -144,7 +144,7 @@ font-weight:300">
     <img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>
 /images/cm.jpeg" alt="Cinque Terre"  style="width:350px;height:200px">
   </a>
-  <div class="desc"><center>News</center><br>Chief Minister Meeting with Student Parliamentarians</div>
+  <div class="desc"><center>News</center><br>C M Meeting with Student Parliamentarians</div>
 </div>
 
 <div class="gallery">
@@ -160,7 +160,7 @@ font-weight:300">
     <img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>
 /images/cm3.jpeg"  style="width:350px;height:200px" >
   </a>
-  <div class="desc">SingularityU India Global Impact Challenge participants Meet CM</div>
+  <div class="desc">SingularityU India Global Impact Challenge</div>
 </div></div>
 </body>
 

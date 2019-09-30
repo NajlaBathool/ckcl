@@ -1,6 +1,6 @@
 .container{
     height:650px;
-        
+        background-image: url("http://ckcl/templates/ckcl/images/download1.jpg");
         background-repeat: no-repeat, repeat;
         background-color: #cccccc;
         background-size: cover;
@@ -15,7 +15,7 @@
     
 }
 .vd{
-    margin-top:20px;
+    margin-top:50px;
 }
 .libar a{
     text-decoration: none;
