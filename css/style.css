@@ -1,0 +1,128 @@
+.container{
+    height:650px;
+        
+        background-repeat: no-repeat, repeat;
+        background-color: #cccccc;
+        background-size: cover;
+      }
+
+
+#ulbar{
+    margin-top:20px;
+
+    list-style-type: none;
+    float: left;
+    
+}
+.vd{
+    margin-top:20px;
+}
+.libar a{
+    text-decoration: none;
+    color:white;
+}
+.parg{
+    color:white;
+    width:583px;
+    margin-top:360px;
+    margin-left:200px;
+    font-family: 'Open Sans', sans-serif;
+font-weight:400"
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  
+  .active1 {
+    background-color: #4CAF50;
+  }
+li{
+    float:left;
+
+}
+
+body{
+    /* height: 500px; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+    
+
+}
+li a:hover:not(.active) {
+    background-color: rgb(68, 150, 75);
+    
+  }
+  
+  .active {
+    background-color: #4CAF50;
+    color:white;
+  }
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    /* width: 180px; */
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+.right class{
+    float:right;
+}
+
+
+.impact{
+    margin-top:60px;
+}
+.circle {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    font-size: 20px;
+    color: #fff;
+    line-height: 125px;
+   
+    text-align: center;
+    background:rgb(84, 182, 84);
+  }
+  .circlediv{
+      
+    margin-left: 370px;
+    margin-top: 50px;
+
+  }
+  .circletext{
+      padding-top:130px;
+      text-align: center;
+      
+  }

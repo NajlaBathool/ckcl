@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+	<name>CKCL</name>
+	<creationDate>2008-05-01</creationDate>
+	<author>werty</author>
+	<authorEmail>john@example.com</authorEmail>
+	<authorUrl>qwer</authorUrl>
+	<copyright>John Doe 2008</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.2</version>
+	<description>CKCL</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+	</files>
+	<positions>
+	</positions>
+</extension>
