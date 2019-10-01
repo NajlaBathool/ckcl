@@ -43,8 +43,8 @@
 
 
 <div class="vd">
-  <center style="font-family: 'Open Sans', sans-serif;font-weight:800">  LOREM IPSUM DOLOR SIT AMET</center>
-<center style="font-family: 'Open Sans', sans-serif;font-weight:400">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempus mi sit amet libero elementum porta. Aliquam sit
+  <center style="font-weight:800">  LOREM IPSUM DOLOR SIT AMET</center>
+<center style="font-weight:400;margin-top:20px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempus mi sit amet libero elementum porta. Aliquam sit
 <br>amet ultricies mi, ac faucibus velit. Morbi aliquet massa quam, ac hendrerit metus fermentum sed. Duis tempus dignissim</br>
 enim eu tempor. Aliquam elementum libero lectus, in condimentum diam venenatis nec. Donec eget dignissim elit.<br>
 Curabitur pulvinar felis a vulputate pretium. Sed id fringilla mi. Proin vel massa eros.</center>
@@ -118,7 +118,7 @@ font-weight:300">
 <div class="gallery">
   <a target="_blank" href="http://www.keralacm.gov.in/2019/02/27/letter-prime-minister-trivandrum-airport/">
     <img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>
-/images/cm.jpeg" alt="Cinque Terre"  style="width:350px;height:200px">
+/images/cm.jpeg" alt="Cinque Terre" >
   </a>
   <div class="desc"><center>News</center><br>Chief Minister Meeting with Student Parliamentarians</div>
 </div>
@@ -126,7 +126,7 @@ font-weight:300">
 <div class="gallery">
 <a target="_blank" href="http://localhost/ckcl/images/download.jpg">
     <img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>
-/images/cm1.jpeg" style="width:350px;height:200px">
+/images/cm1.jpeg">
   </a>
   <div class="desc">CM Speaking at a function in New York</div>
 </div>
@@ -134,7 +134,7 @@ font-weight:300">
 <div class="gallery">
   <a target="_blank" href="http://localhost/ckcl/images/download.jpg">
     <img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>
-/images/cm3.jpeg"  style="width:350px;height:200px" >
+/images/cm3.jpeg" >
   </a>
   <div class="desc">SingularityU India Global Impact Challenge participants Meet CM</div>
 </div></div>
