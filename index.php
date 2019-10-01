@@ -3,9 +3,6 @@
 <html xml:lang="<?php echo $this->language; ?>" lang="<?php echo $this->language; ?>" >
 <head>
 <jdoc:include type="head" />
-<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-      <script src="bootstrap/scripts/jquery.min.js"></script>
-      <script src="/bootstrap/js/bootstrap.min.js"></script>
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/css/style.css" type="text/css"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
@@ -14,25 +11,24 @@
 
 
 <body>
-<div class="container"style="background-image:http://ckcl/templates/ckcl/images/download1.jpg">
-<div class="menubar">
+<div class="container" style="background-image:url(templates/<?php echo $this->template ?>/images/download1.jpg)">
+  <div class="menubar">
         <ul style="font-family: 'Open Sans', sans-serif;font-weight:800">
         <li ><a href="">Clean Kerala <span>Company Ltd</span></a></li>
         <li style="float:right"><a href="">About</a></li>
         <li style="float:right"><a href="">Programmers</a></li>
         <li style="float:right"><a class="active1" href="#about">Contact</a></li>
         </ul>
-        <p style="font-family:'Open Sans', sans-serif;font-weight:800;padding-top:185px">
-       <center><h1>
+        </div>
+
+        <p id="title">
          STATE OF OUR SURROUNDINGS<br>
-          IS THE CONDITION OF OUR SOUL</h1></center>
-        </p></div>
-
-
+          IS THE CONDITION OF OUR SOUL
+        </p>
 
 
 </div>
-  
+
 <div class="secbar">
     <ul style="list-style-type:none;padding:0px;margin-bottom:0px;margin-top:0px; background-color:#dcdee0;height:44px;font-family: 'Open Sans', sans-serif;
 font-weight:400">
@@ -81,7 +77,7 @@ font-weight:400">
 </div>
 <div class="vd">
   <center style="font-family: 'Open Sans', sans-serif;
-font-weight:800">  LOREM IPSUM DOLOR SIT AMET</center> 
+font-weight:800">  LOREM IPSUM DOLOR SIT AMET</center>
 <center style="font-family: 'Open Sans', sans-serif;
 font-weight:400">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempus mi sit amet libero elementum porta. Aliquam sit
 <br>amet ultricies mi, ac faucibus velit. Morbi aliquet massa quam, ac hendrerit metus fermentum sed. Duis tempus dignissim</br>
@@ -94,47 +90,36 @@ Curabitur pulvinar felis a vulputate pretium. Sed id fringilla mi. Proin vel mas
 <div class="impact" >
   <center style="font-family: 'Open Sans', sans-serif;
 font-weight:800">OUR IMPACT</center></div>
-<div class="circlediv">
 
-<div class="circle" style="float:left;">1235</div>
-
-<div class="circle"style="float:left;margin-left:25px">135</div>
-<div class="circle"style="float:left;margin-left:25px">637</div>
-<div class="circle"style="float:left;margin-left:25px">827</div>
-  
-</div>
-<div class="circletext" style="padding-top:130px;padding-left:0px;font-family: 'Open Sans', sans-serif;
-font-weight:300">
-  Kg of waste desposed.
-<span style="padding-left:12px">collection units</span>
-<span style="padding-left:28px">Local Bodies</span>
-<span style="padding-left:20px">Tones of waste recycled</span>
-
-
-
-
-</div>
-<div class="circlediv">
-
-<div class="circle" style="float:left;">1235</div>
-
-<div class="circle"style="float:left;margin-left:25px">135</div>
-<div class="circle"style="float:left;margin-left:25px">637</div>
-<div class="circle"style="float:left;margin-left:25px">827</div>
-  
-</div>
-<div class="circletext" style="padding-top:130px;padding-left:0px;font-family: 'Open Sans', sans-serif;
-font-weight:300">
-  Kg of waste desposed.
-<span style="padding-left:12px">collection units</span>
-<span style="padding-left:28px">Local Bodies</span>
-<span style="padding-left:20px">Tones of waste recycled</span>
-
-
-
+<ul id="qwerty">
+  <li>
+    <ul>
+      <li class="circ">1235</li>
+      <li class="cap">Kg of waste desposed.</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li class="circ">1235</li>
+      <li class="cap">Kg of waste desposed.</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li class="circ">1235</li>
+      <li class="cap">Kg of waste desposed.</li>
+    </ul>
+  </li>
+  <li>
+    <ul>
+      <li class="circ">1235</li>
+      <li class="cap">Kg of waste desposed.</li>
+    </ul>
+  </li>
+</ul>
 
 </div>
-<div class="whatsnew" style="font-family: 'Open Sans', sans-serif;font-weight:800;margin-top:35px;">
+<div class="whatsnew" style="font-weight:800;margin-top:35px;">
 <center>WHAT'S NEW</center>
 </div>
 <div class="row" style="margin-top:10px;margin-left:130px;font-family: 'Open Sans', sans-serif;
@@ -144,7 +129,7 @@ font-weight:300">
     <img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>
 /images/cm.jpeg" alt="Cinque Terre"  style="width:350px;height:200px">
   </a>
-  <div class="desc"><center>News</center><br>C M Meeting with Student Parliamentarians</div>
+  <div class="desc"><center>News</center><br>Chief Minister Meeting with Student Parliamentarians</div>
 </div>
 
 <div class="gallery">
@@ -160,7 +145,7 @@ font-weight:300">
     <img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>
 /images/cm3.jpeg"  style="width:350px;height:200px" >
   </a>
-  <div class="desc">SingularityU India Global Impact Challenge</div>
+  <div class="desc">SingularityU India Global Impact Challenge participants Meet CM</div>
 </div></div>
 </body>
 
