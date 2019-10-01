@@ -52,11 +52,11 @@ Curabitur pulvinar felis a vulputate pretium. Sed id fringilla mi. Proin vel mas
 <iframe width="620" height="245" src="https://www.youtube.com/embed/tgbNymZ7vqY"></center>
 </iframe>
 </div>
-<div class="impact">
+<div id="impact">
   <center style="font-family: 'Open Sans', sans-serif;
 font-weight:800">OUR IMPACT</center></div>
 
-<ul id="qwerty" style="margin-left:400px">
+<ul id="qwerty">
   <li>
     <ul>
       <li class="circ">1235</li>
@@ -82,7 +82,7 @@ font-weight:800">OUR IMPACT</center></div>
     </ul>
   </li>
 </ul>
-<ul id="qwerty" style="margin-left:400px">
+<ul id="qwerty" >
   <li>
     <ul>
       <li class="circ">1235</li>

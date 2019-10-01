@@ -81,7 +81,7 @@ li a:hover:not(.active) {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    /* width: 180px; */
+    width:350px;height:200px;
   }
 
   div.gallery:hover {
@@ -101,9 +101,9 @@ li a:hover:not(.active) {
     float:right;
 }
 
-
-.impact{
-    margin-top:60px;
+#impact{
+    margin-top:30px;
+    margin-bottom:20px;
 }
 .circle {
     width: 125px;
@@ -136,7 +136,9 @@ li a:hover:not(.active) {
 
   }
 
-
+#qwerty{
+  margin-left:350px;
+}
 
 #qwerty li * {
   list-style: none;
