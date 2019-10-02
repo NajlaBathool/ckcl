@@ -1,0 +1,43 @@
+#impact{
+    color: green;
+      margin-top:30px;
+      margin-bottom:20px;
+  }
+  #qwerty{
+    margin-left:527px;
+  }
+  
+  #qwerty li * {
+    list-style: none;
+  }
+  #qwerty li {
+    position: relative;
+    display: inline-block;
+  }
+  #qwerty li ul {
+    text-align: center;
+  }
+  #qwerty li ul li {
+    display: block;
+  }
+  .circ {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    font-size: 20px;
+    color: #fff;
+    line-height: 125px;
+    text-align: center;
+    background:rgb(84, 182, 84);
+    display: inline-block;
+    margin: 0 15px;
+    position: relative;
+  
+  }
+  .cap {
+    display: block;
+    position: absolute;
+    color: #000;
+    
+    
+  }

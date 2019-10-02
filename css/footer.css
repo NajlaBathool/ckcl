@@ -1,0 +1,69 @@
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(48, 46, 46);
+    color: black;
+    text-align: center;
+    margin-top:360px;
+ }
+ .icons{
+     text-align: center;
+     height:140px;
+     margin-left:680px;
+ }
+ .ul1{
+     float:left;
+ }
+ #dlg{ height:100px;
+    font-size: 3em;
+     text-align: center;
+     padding-top:30px;
+     background-color: rgb(22, 95, 22)
+ }
+ li a{
+     text-align: center;
+ }
+ #cnct{
+     color:white;
+     text-decoration: none;
+     text-align: center;
+     height:245px;
+     list-style-type: none;
+ }
+
+
+  .footercol li {
+    font-size: 15px;
+    margin: 9px 0;
+    font-weight: 400;
+    color: white;
+    transition: color .2s;
+  }
+  .footercol li:hover {
+    color: #000;
+  }
+  .footsocial li {
+    background-color: #000;
+    display: inline-block;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    position: relative;
+    margin: 0 2px;
+    transition: background .2s;
+  }
+  .fab{
+    font-family: "Font Awesome 5 Brands";
+  }
+  .footsocial li:hover {
+    background-color: #e51a4b;
+  }
+  .footsocial i {
+    color: #FFF;
+    font-size: 15px;
+    top: 50%;
+    margin-top: 7px;
+  }

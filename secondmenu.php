@@ -1,4 +1,4 @@
-<ul style="background-color:grey;">
+<ul  class="secondmenu"style="background-color:grey;">
   <li style="float:left"><a href="#home">Clean Kerala<span>Company Ltd</span></a></li>
   <li style="float:right"><a href="#news">Contact us</a></li>
 

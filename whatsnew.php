@@ -1,7 +1,7 @@
 <div class="whatsnew" style="font-weight:800;margin-top:35px;">
 <center>WHAT'S NEW</center>
 </div>
-<div class="row" style="margin-top:10px;margin-left:130px;font-family: 'Open Sans', sans-serif;
+<div class="row" style="margin-top:10px;margin-left:250px;font-family: 'Open Sans', sans-serif;
 font-weight:300">
 <div class="gallery">
   <a target="_blank" href="http://www.keralacm.gov.in/2019/02/27/letter-prime-minister-trivandrum-airport/">
