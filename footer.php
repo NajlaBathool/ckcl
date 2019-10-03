@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/">
 <li><i class="fab fa-facebook"></i></li></a>
 <a href="https://www.gmail.com/">
-<li><i class="fab fa-gmail"></i></li></a>
+<li><i class="fab fa-instagram"></i></li></a>
 </ul>
   <div class="icons">   
 <ul  style="list-style-type:none;float:left;">

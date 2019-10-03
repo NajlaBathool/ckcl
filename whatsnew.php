@@ -1,5 +1,5 @@
-<div class="whatsnew" style="margin-top:30px;">
-<center>WHAT'S NEW</center>
+<div class="whatsnew" style="margin-top:30px;"><h2>
+<center>WHAT'S NEW</center></h2>
 </div>
 <div class="row" style="height:350px;margin-left:304px;margin-top:30px">
 <div class="gallery">

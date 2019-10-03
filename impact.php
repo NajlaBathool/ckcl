@@ -1,6 +1,5 @@
 <div id="impact">
-  <center style="font-family: 'Open Sans', sans-serif;
-font-weight:800">OUR IMPACT</center></div>
+  <center><h2>OUR IMPACT</center></div></h2>
 <ul id="qwerty">
   <li>
     <ul>
