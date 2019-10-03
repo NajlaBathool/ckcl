@@ -1,5 +1,7 @@
 .whatsnew{
     color: green;
+    font-weight:800;margin-top:35px;
+    
   
   }
   div.gallery {
@@ -21,4 +23,9 @@
     padding: 15px;
     text-align: center;
     
+  }
+  .row{
+    margin-top:10px;margin-left:250px;font-family: 'Open Sans', sans-serif;
+font-weight:300;
+height:350px;
   }
